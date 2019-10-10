@@ -1,0 +1,4 @@
+{
+  "connection_type": "mysql",
+  "connection_string": "devuser:devuser@/weave"
+}
